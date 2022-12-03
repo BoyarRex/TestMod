@@ -18,7 +18,7 @@ public class TestModBR
     public static final String MOD_ID = "testmodbr";
 
     private static final Logger LOGGER = LogUtils.getLogger();
-    // Comment
+    // Test Comment
     public TestModBR() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
